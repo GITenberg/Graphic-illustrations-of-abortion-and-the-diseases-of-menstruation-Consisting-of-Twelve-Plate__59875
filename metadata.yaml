@@ -1,11 +1,16 @@
 _repo: Graphic-illustrations-of-abortion-and-the-diseases-of-menstruation-Consisting-of-Twelve-Plate__59875
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59875-h/images/cover.jpg
 creator:
   author:
     agent_name: Granville, A. B.
     gutenberg_agent_id: '50670'
     url: http://www.gutenberg.org/2009/agents/50670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59875#Graphic-illustrations-of-abortion-and-the-diseases-of-menstruation-Consisting-of-Twelve-Plate_
 gutenberg_issued: '2019-07-08'
 gutenberg_type: Text
 identifiers:
